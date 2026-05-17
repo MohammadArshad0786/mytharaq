@@ -17,7 +17,7 @@ Mytharaq (MYQ) is a community-driven SPL token built on Solana. It is designed f
 - Website: https://mytharaq.com
 - Twitter: https://twitter.com/mytharaq
 - Telegram: https://t.me/mytharaq
-- https://github.com/MohammadArshad0786/mytharaq
+- GitHub: https://github.com/MohammadArshad0786/mytharaq
 
 ## Disclaimer
 Mytharaq is a community-driven digital asset. It does not represent ownership, equity, or financial guarantees. Users should conduct their own research before interacting with the token.
