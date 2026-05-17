@@ -1,11 +1,12 @@
-# Mytharaq (MYQ)
+# Mytharaq 
 
-Official repository for Mytharaq (MYQ), a Solana-based community token project.
+Official repository for Mytharaq  , a Solana-based community token project.
 
 ## Overview
-Mytharaq (MYQ) is a community-driven SPL token built on Solana. It is designed for decentralized trading and liquidity participation within the Solana ecosystem.
+Mytharaq  is a community-driven SPL token built on Solana. It is designed for decentralized trading and liquidity participation within the Solana ecosystem.
 
 ## Token Information
+- Tiken Name: Mytharaq
 - Symbol: MYQ
 - Blockchain: Solana
 - Token Standard: SPL Token (Token Program)
@@ -14,9 +15,10 @@ Mytharaq (MYQ) is a community-driven SPL token built on Solana. It is designed f
 3TyAeveXNd3pviFbGAPBCBLrW31LtH71NA6MkJ9RxT7E
 
 ## Official Links
-- Website: https://mytharaq.com
-- Twitter: https://twitter.com/mytharaq
-- Telegram: https://t.me/mytharaq
+- Website: https://www.mytharaq.com
+- Twitter: https://x.com/MytharaqMYQ
+- Telegram: https://t.me/MytharaqMYQ
+- Youtube: https://www.youtube.com/@MytharaqMYQ
 - GitHub: https://github.com/MohammadArshad0786/mytharaq
 
 ## Disclaimer
